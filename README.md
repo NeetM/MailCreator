@@ -1,2 +1,2 @@
 # MailCreator
-Automated Email Generation Program for Groups
+📧🤖 Automated Email Generation Program for Group 🌐👥
